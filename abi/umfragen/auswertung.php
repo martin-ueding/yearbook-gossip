@@ -13,7 +13,7 @@ if (empty($_SESSION['benutzer_id']))
 	
 	<h3>Wer ist was? - Auswertung</h3>
 	
-	Inzwischen haben sich einige &uuml;ber die Kategorien beschwert. Wenn Du auch ein Problem mit einer bestimmten Kategorie hast, dann <a href="../../kontakt/form.php" target="main">melde Dich</a> bitte, ich nehme die dann raus.
+	Inzwischen haben sich einige &uuml;ber die Kategorien beschwert. Wenn Du auch ein Problem mit einer bestimmten Kategorie hast, dann <a href="https://answers.launchpad.net/yearbookgossip/+addquestion" target="_blank">melde Dich</a> bitte, ich nehme die dann raus.
 	<br /><br />
 	
 	<table cellspacing="3" cellspacing="0">

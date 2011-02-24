@@ -1,4 +1,7 @@
-<?PHP session_start(); 
+<?PHP
+// Copyright (c) 2011 Martin Ueding <dev@martin-ueding.de>
+
+session_start(); 
 if (empty($_SESSION['benutzer_id']))
 	header('location:../index.php');?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"

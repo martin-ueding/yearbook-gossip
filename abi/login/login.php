@@ -1,4 +1,6 @@
 <?PHP
+// Copyright (c) 2011 Martin Ueding <dev@martin-ueding.de>
+
 session_start();
 
 $email = htmlspecialchars($_POST['email']);

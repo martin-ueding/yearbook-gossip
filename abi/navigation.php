@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?PHP /* Copyright (c) 2011 Martin Ueding <dev@martin-ueding.de> */ ?>
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
